@@ -1,8 +1,8 @@
 {
-  "name": "sinigang",
+  "name": "app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "public/js/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "cross-env NODE_ENV=development webpack --progress --hide-modules",
